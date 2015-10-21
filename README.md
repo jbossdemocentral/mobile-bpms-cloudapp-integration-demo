@@ -6,7 +6,7 @@ This is the Red Hat Mobile Application Platform (MAP) - JBoss BPMSuite (BPMS) in
 Import the project into RH MAP
 ------------------------------
 * Prerequisites:
-- Obtain a login and domain from the Red Hat Mobile team if you don't already have them.
+	- Obtain a login and domain from the Red Hat Mobile team if you don't already have them.
 
 1. Login to the appropriate RH MAP domain.
 
