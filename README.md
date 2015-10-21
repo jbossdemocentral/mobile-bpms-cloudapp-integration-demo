@@ -16,7 +16,15 @@ Import the project into RH MAP
 
 4. Enter Git URL as https://github.com/jbossdemocentral/mobile-bpms-cloudapp-integration-demo.git -> Import and move onto integration -> Finished - Take me to My App!
 
-5. Continue with importing [Client App](https://github.com/jbossdemocentral/mobile-bpms-clientapp-integration-demo).
+5. Add the approprate BPM environment variables (left panel of the cloud app):
+
+	- BPM_HOST
+	- BPM_USER
+	- BPM_PASSWORD
+	- BPM_DEPLOYMENT_ID
+	- BPM_PORT
+
+6. Continue with importing [Client App](https://github.com/jbossdemocentral/mobile-bpms-clientapp-integration-demo).
 
 Notes
 -----
