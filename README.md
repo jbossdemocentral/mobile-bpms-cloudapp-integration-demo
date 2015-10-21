@@ -1,5 +1,5 @@
-Red Hat Mobile Application Platform & JBoss BPMSuite Integration Client App Demo
-================================================================================
+Red Hat Mobile Application Platform & JBoss BPMSuite Integration Cloud App Demo
+===============================================================================
 
 This is the Red Hat Mobile Application Platform (MAP) - JBoss BPMSuite (BPMS) integration demo that provides examples of a form-based client application (Cordova Light Forms App).
 
@@ -20,7 +20,7 @@ Import the project into RH MAP
 
 Notes
 -----
-This project is a bare git repo for the client app that can be imported into RH MAP.
+This project is a bare git repo for the cloud app that can be imported into RH MAP.
 
 Supporting Articles
 -------------------
