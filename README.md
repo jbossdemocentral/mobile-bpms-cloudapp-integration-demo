@@ -24,12 +24,12 @@ Import the project into RH MAP
 	- BPM_DEPLOYMENT_ID
 	- BPM_PORT
 
-![alt text](
+    ![alt text](
 https://raw.githubusercontent.com/jbossdemocentral/mobile-bpms-cloudapp-integration-demo/master/screenshots/RHMAPCloudAppEnvVariables.png "RHMAP Cloud App Env Variables")
 
 6. Deploy the Cloud App (left panel of the cloud app).
 
-![alt text](
+    ![alt text](
 https://raw.githubusercontent.com/jbossdemocentral/mobile-bpms-cloudapp-integration-demo/master/screenshots/RHMAPCloudAppDeploy.png "RHMAP Cloud App Deploy")
 
 7. Continue with importing [Client App](https://github.com/jbossdemocentral/mobile-bpms-clientapp-integration-demo).
